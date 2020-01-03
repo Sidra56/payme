@@ -1,0 +1,49 @@
+.pay{
+	background-color: blue;
+	float: left;
+	padding-left: 8px;
+	padding-right: 15%;
+	padding-top: 8px;
+	color: white;
+}
+.bb{
+	
+	padding-top: 60px;
+	padding-right: 15%
+	height: 100%;
+	width: 180%;
+
+}
+.fa-quote-left{
+	margin-bottom: 30px;
+}
+.bb p{
+	font-weight: bold;
+	font-size: 130%;
+	/*color: white;*/
+}
+.fa-usd{
+	margin-right: 3px;
+}
+.cc p{
+	padding-right: 15%
+	height: 100%;
+	width: 180%;
+}
+.dd p{
+	height: 100%;
+	width: 180%;
+}
+.ee h3{
+	
+	width: 180%;
+}
+.left{
+	padding-left: 50%;
+	padding-top: 10%;
+}
+.f figure{
+	padding-left: 65%;
+	width: 110%;
+
+}
